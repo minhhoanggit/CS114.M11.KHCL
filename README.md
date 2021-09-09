@@ -2,7 +2,9 @@
 
 # Giới thiệu bản thân
 * **Họ và tên**: Trịnh Minh Hoàng
-* **Trường**: Đại học Công Nghệ Thông Tin 
-* **Khóa**: 2019 **Ngành**: Khoa học máy tính
+* **Sinh Ngày**: 21/08/2001
+* **Trường**: Đại học Công Nghệ Thông Tin
+* **Ngành**: Khoa học máy tính
+* **Khóa**: 2019
 * **Thực lực**: Cảm thấy rất kém, kiến thức chuyên ngành không nhiều :((
 * **Muốn bản thân nổ lực hơn 2 năm đại học vừa qua**
