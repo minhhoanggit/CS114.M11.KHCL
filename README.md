@@ -7,4 +7,4 @@
 * **Ngành**: Khoa học máy tính
 * **Khóa**: 2019
 * **Thực lực**: Cảm thấy rất kém, kiến thức chuyên ngành không nhiều :((
-* ***Muốn bản thân nổ lực hơn 2 năm đại học vừa qua**
+* ***Muốn bản thân nổ lực hơn 2 năm đại học vừa qua***
